@@ -40,3 +40,5 @@ int main() {
     return 0;
 
 }
+
+//O n % (EX: n % 100) significa que vai ser usado o valor do resto da divisão de n por 100.
