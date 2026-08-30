@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int A, B, X;
-
 int main() {
+
+    int A, B, X;
 
     scanf("%d", &A);
     scanf("%d", &B);

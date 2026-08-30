@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int A, B, SOMA;
-
 int main() {
+
+    int A, B, SOMA;
 
     scanf("%d", &A);
     scanf("%d", &B);
