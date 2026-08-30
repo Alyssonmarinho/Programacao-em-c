@@ -1,6 +1,6 @@
 # Programação em C
 
-Repositório criado para reunir os exercícios e códigos desenvolvidos durante a matéria de **Introdução às Técnicas de Programação**, na plataforma [Beecrowd](https://www.beecrowd.com.br/).
+Repositório criado para reunir os exercícios e códigos desenvolvidos durante a matéria de **Introdução às Técnicas de Programação**, da UFRN, na plataforma [Beecrowd](https://www.beecrowd.com.br/).
 
 ## Sobre
 
