@@ -12,7 +12,7 @@ int main(void){
 
     else if(renda <= 3000){
         imposto = (renda - 2000) * 0.08;
-        printf("%.2f\n", imposto);
+        printf("R$ %.2f\n", imposto);
     }
 
     else if(renda <= 4500){
