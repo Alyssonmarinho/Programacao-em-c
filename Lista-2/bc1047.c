@@ -12,7 +12,7 @@ int main(void){
     duracao = fim - inicio;
 
     if(duracao<=0){
-        duracao += 24*60;
+        duracao += 24*60;   // o += é a mesma coisa que dizer "duracao = duracao + 24*60"
     }    
 
     printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n", duracao / 60, duracao % 60);
