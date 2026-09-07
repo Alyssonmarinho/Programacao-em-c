@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
 
     int n, anos, meses, dias;
 
@@ -14,10 +14,9 @@ int main() {
 
     dias = n;
 
-    printf("%d ano(s) \n", anos);
-    printf("%d mes(es) \n", meses);
-    printf("%d dia(s) \n", dias);
+    printf("%d ano(s)\n", anos);
+    printf("%d mes(es)\n", meses);
+    printf("%d dia(s)\n", dias);
 
     return 0;
-
 }
