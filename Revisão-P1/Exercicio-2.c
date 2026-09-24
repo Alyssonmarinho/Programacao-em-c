@@ -89,7 +89,7 @@ void exibir_resumo(double total, int qtd_dias_leitura, int dias_com_codigo_3){
     printf("\n");
 
     printf("Total de chuva foi de %.1f mm\n", total);
-    printf("A média de chuva foi de %.1f mm\n", media);
+    printf("A media de chuva foi de %.1f mm\n", media);
     printf("E houveram %d dias com chuva forte\n", dias_com_codigo_3);
 
     for(int i = 0; i < 50; i++) printf("-");
