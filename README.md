@@ -6,4 +6,4 @@ Repositório criado para reunir os exercícios e códigos desenvolvidos durante 
 
 Este repositório serve como registro do meu aprendizado em C, incluindo a resolução de problemas propostos na disciplina.
 
-Cada arquivo `.c` corresponde a um exercício resolvido no Beecrowd.
+Cada arquivo `.c` corresponde a um exercício resolvido no Beecrowd ou alguma revisão ou prova de cada unidade.
