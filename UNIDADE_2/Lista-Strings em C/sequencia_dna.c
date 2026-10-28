@@ -15,7 +15,7 @@ int main(void) {
     remover_quebra_de_linha(dna);
     passar_para_maiusculas(dna);
  
-    printf("tamanho: %zu\n", strlen(dna));
+    printf("tamanho: %d\n", strlen(dna));
     printf("A: %d, C: %d, G: %d, T: %d\n",
            contar_base(dna, 'A'), contar_base(dna, 'C'),
            contar_base(dna, 'G'), contar_base(dna, 'T'));
